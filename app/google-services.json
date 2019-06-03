@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "230753522527",
+    "firebase_url": "https://coba-coba-db25b.firebaseio.com",
+    "project_id": "coba-coba-db25b",
+    "storage_bucket": "coba-coba-db25b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230753522527:android:1f24cae2c1121d22",
+        "android_client_info": {
+          "package_name": "coba.yogi.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230753522527-ajnu4lmf67luprlaabeh8iuncqqkqm9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "coba.yogi.com",
+            "certificate_hash": "e93f2ae6065d257d7e4962714ed9058cb6557b47"
+          }
+        },
+        {
+          "client_id": "230753522527-pu40qmn49g57tmitflso54mss2457s4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqeWCwlXh_CSN_UR15jaCpjG-eRDm3Hos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230753522527-pu40qmn49g57tmitflso54mss2457s4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230753522527:android:5d791ed893b83933",
+        "android_client_info": {
+          "package_name": "com.assosiatedicoding.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230753522527-bk1qubjfebjjc59o05m45jfr13r2ig5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assosiatedicoding.maps",
+            "certificate_hash": "e93f2ae6065d257d7e4962714ed9058cb6557b47"
+          }
+        },
+        {
+          "client_id": "230753522527-pu40qmn49g57tmitflso54mss2457s4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqeWCwlXh_CSN_UR15jaCpjG-eRDm3Hos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230753522527-pu40qmn49g57tmitflso54mss2457s4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230753522527:android:a3e8b2c8d17a107e",
+        "android_client_info": {
+          "package_name": "com.hora.priyank.trackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230753522527-aon5le8qnor63k73snanfqsbo8k50e2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hora.priyank.trackingapp",
+            "certificate_hash": "e93f2ae6065d257d7e4962714ed9058cb6557b47"
+          }
+        },
+        {
+          "client_id": "230753522527-pu40qmn49g57tmitflso54mss2457s4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqeWCwlXh_CSN_UR15jaCpjG-eRDm3Hos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230753522527-pu40qmn49g57tmitflso54mss2457s4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230753522527:android:929661b709e3bc31",
+        "android_client_info": {
+          "package_name": "jdulal.com.np.androiduploadretrieveimagesusingfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230753522527-c1hputc0q7jcmus0gpbjanlgrp7otioa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jdulal.com.np.androiduploadretrieveimagesusingfirebasestorage",
+            "certificate_hash": "e93f2ae6065d257d7e4962714ed9058cb6557b47"
+          }
+        },
+        {
+          "client_id": "230753522527-pu40qmn49g57tmitflso54mss2457s4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqeWCwlXh_CSN_UR15jaCpjG-eRDm3Hos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230753522527-pu40qmn49g57tmitflso54mss2457s4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
